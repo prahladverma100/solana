@@ -43,7 +43,7 @@ const Last_Section = () => {
                                         Disclaimer</a>
                                     </li>
                                 </ul>
-                                <ul className="max-w-[205px] max-sm:hidden w-[100%] lg:pl-[20px]" id='about'>
+                                <ul className="max-w-[205px] max-sm:hidden w-[100%] lg:pl-[20px]">
                                     <li className=" font-normal  text-[16px] leading-[18.72px] text-white uppercase">
                                         Get Connected
                                     </li>

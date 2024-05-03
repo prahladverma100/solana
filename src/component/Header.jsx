@@ -21,7 +21,7 @@ const Header = () => {
             <nav className=" py-5">
                 <div className=" max-w-[1164px] px-3 mx-auto">
                     <div className=" flex items-center justify-between">
-                        <div className=" z-[60]">
+                        <div className=" z-[60] cursor-pointer">
                             <img className=" w-[181px] h-[27px]" src={solanalogo} alt="solanalogo" />
                         </div>
                         <ul className={`${show ? "left-[-100%]" : "left-0 bg-[black]"} flex items-center  gap-6 flex-row max-lg:fixed max-lg:z-50 max-lg:flex-col top-0 max-lg:w-full max-lg:h-full max-lg:min-h-screen max-lg:justify-center transition-all ease-linear duration-300}`}>

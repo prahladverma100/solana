@@ -15,7 +15,7 @@ const SolanaDos = () => {
                                 <h3 className=" font-normal ff_Helvetica text-[32px] max-sm:text-[25px] leading-[33.6px] text-white ">
                                     Solana Docs
                                 </h3>
-                                <a href="" className='rounded-[24px] ff_roboto border-white border-[1px] flex pt-[12px] pb-[14px] pl-[21px] pr-[11px] gap-[10px]  items-center text-white'>View all <Arrow_icon /></a>
+                                <a href="" className='rounded-[24px] ff_roboto  hover:bg-white hover:text-black duration-300 ease-in-out border-white border-[1px] flex pt-[12px] pb-[14px] pl-[21px] pr-[11px] gap-[10px]  items-center text-white'>View all <Arrow_icon /></a>
                             </div>
                             <hr className=" bg-[#878688] opacity-100 mt-[31px]  w-[100%] h-[2px] border-t-0" />
                             <p className="ff_Helvetica font-normal text-[20px] max-sm:text-[18px] leading-[27.3px] text-white mb-0 mt-[30px] ">
@@ -28,7 +28,7 @@ const SolanaDos = () => {
                                 <h3 className="ff_Helvetica font-normal text-[32px] max-sm:text-[25px] leading-[33.6px] text-white ">
                                     Metaplex Docs
                                 </h3>
-                                <a href="" className='rounded-[24px] ff_roboto border-white border-[1px]  flex pt-[12px] pb-[14px] pl-[21px] pr-[11px] gap-[10px]  items-center text-white'>View all <Arrow_icon /></a>
+                                <a href="" className='rounded-[24px] ff_roboto hover:bg-white hover:text-black duration-300 ease-in-out border-white border-[1px]  flex pt-[12px] pb-[14px] pl-[21px] pr-[11px] gap-[10px]  items-center text-white'>View all <Arrow_icon /></a>
                             </div>
                             <hr className=" bg-[#878688] opacity-100 mt-[31px]  w-[100%] h-[2px] border-t-0" />
                             <p className="ff_Helvetica font-normal text-[20px] max-sm:text-[18px] leading-[27.3px] text-white mb-0 mt-[30px] ">
