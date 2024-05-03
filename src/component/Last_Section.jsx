@@ -10,7 +10,7 @@ const Last_Section = () => {
                     <div className="max-w-[1140px] pb-[81px] px-3 mx-auto pt-5 lg:pt-[80px]  max-md:pt-[40px] max-sm:pt-[20px]">
                         <div className=" flex md:justify-between max-lg:flex-col  max-lg:items-center">
                             <div className=" max-w-[334px] w-[100%] max-lg:max-w-[476.45px]">
-                                <img src={footerlogo} alt="logo" />
+                                <img className=' cursor-pointer' src={footerlogo} alt="logo" />
                                 <p className=" font-normal text-[16px] leading-[27.3px] text-white mt-[20px]"> Managed by Solana Foundation </p>
                                 <div className=" flex gap-[10px] pt-[24px]">
                                     <a href="https://www.youtube.com/" target='_blank' className=' cursor-pointer hover:translate-y-[-5px] duration-300 ease-in-out'><Youtube /></a>
@@ -30,16 +30,16 @@ const Last_Section = () => {
                                     <li className=" font-normal  text-[16px] leading-[18.72px] text-white uppercase">
                                         Solana
                                     </li>
-                                    <li className=" mt-[13px]"><a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">Grants</a>
+                                    <li className=" mt-[13px]"><a href="#Grants" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">Grants</a>
                                     </li>
-                                    <li className=" mt-[11px]"><a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]"> Break Solana</a>
+                                    <li className=" mt-[11px]"><a href="#Break" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]"> Break Solana</a>
                                     </li>
-                                    <li className=" mt-[11px]"><a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]"> Media Kit</a>
+                                    <li className=" mt-[11px]"><a href="#Media" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]"> Media Kit</a>
                                     </li>
-                                    <li className=" mt-[11px]"> <a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
+                                    <li className=" mt-[11px]"> <a href="#Careers" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
                                         Careers</a>
                                     </li>
-                                    <li className=" mt-[11px]"> <a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
+                                    <li className=" mt-[11px]"> <a href="#Disclaimer" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
                                         Disclaimer</a>
                                     </li>
                                 </ul>
@@ -47,13 +47,13 @@ const Last_Section = () => {
                                     <li className=" font-normal  text-[16px] leading-[18.72px] text-white uppercase">
                                         Get Connected
                                     </li>
-                                    <li className=" mt-[13px]"> <a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
+                                    <li className=" mt-[13px]"> <a href="#Ecosystem" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
                                         Ecosystem</a>
                                     </li>
-                                    <li className=" mt-[11px]"> <a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
+                                    <li className=" mt-[11px]"> <a href="#Blog" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
                                         Blog</a>
                                     </li>
-                                    <li className=" mt-[11px]"> <a href="" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
+                                    <li className=" mt-[11px]"> <a href="#Newsletter" className=" font-normal text-[15px] leading-[27.3px] text-[#848895]">
                                         Newsletter</a>
                                     </li>
                                 </ul>

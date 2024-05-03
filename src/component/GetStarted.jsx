@@ -41,7 +41,7 @@ const settings = {
 
 const GetStarted = () => {
     return (
-        <div className=' bg-[black] mt-[-2px] pb-7 lg:pb-[128px]'>
+        <div className=' bg-[black] mt-[-2px] pb-7 lg:pb-[128px]' id='Break'>
             <div className=' max-w-[1122px] px-3  mx-auto'>
                 <h3 className='ff_Helvetica text-white  font-normal text-[38px] leading-[42px] text-center lg:text-start' data-aos="fade-right">Get started.</h3>
                 <p className=' text-[#C4C4C4] ff_Helvetica font-normal text-xl pb-8 text-center lg:text-start' data-aos="fade-right">Use these Solana Foundation and community courses to begin your journey into Solana development.</p>

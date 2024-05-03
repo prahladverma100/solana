@@ -5,7 +5,7 @@ import SolanaChange from '../assets/image/png/SolanaChange.png'
 const SolanaDos = () => {
     return (
         <div>
-            <section className="  bg-[linear-gradient(180deg,_#19161C_0%,_#000000_100%)]">
+            <section className="  bg-[linear-gradient(180deg,_#19161C_0%,_#000000_100%)]" id='Media'>
                 <div className=" max-w-[1122px]  px-3 mx-auto pt-7 lg:pt-[76.41px]">
                     <p className=" max-lg:text-center ff_Helvetica font-normal text-[36px]  leading-[36px] tracking-[0.68px] text-white mb-0  " data-aos="fade-right"> Go to the source.</p>
                     <p className=" max-lg:text-center ff_Helvetica font-normal text-[20px] max-sm:text-[18px]  leading-[27.3px] tracking-[0.68px] text-[#C4C4C4] mb-0  " data-aos="fade-right"> Read the documentation for Solana and popular tools. </p>
@@ -23,7 +23,7 @@ const SolanaDos = () => {
                                 Solana's architecture.
                             </p>
                         </div>
-                        <div className=" max-w-[522.76px] mt-[48px]" data-aos="fade-left">
+                        <div className=" max-w-[522.76px] mt-[48px]" data-aos="fade-left" id='Build'>
                             <div className=" flex justify-between  items-center">
                                 <h3 className="ff_Helvetica font-normal text-[32px] max-sm:text-[25px] leading-[33.6px] text-white ">
                                     Metaplex Docs
@@ -75,7 +75,7 @@ const SolanaDos = () => {
                     </div>
                 </div>
             </section>
-            <section className=" bg-black mt-[-1px]" id='Build'>
+            <section className=" bg-black mt-[-1px]" id='Careers'>
                 <div className="max-w-[1122px] px-3 mx-auto pb-10 lg:pb-[79px] max-md:pb-[40px] max-sm:pb-[20px] ">
                     <div className="flex flex-row  flex-wrap mx-[-12px]">
                         <div className=" w-6/12 px-[12px] max-lg:w-[100%] flex max-lg:justify-center" data-aos="fade-right">
@@ -84,7 +84,7 @@ const SolanaDos = () => {
                                 <p className=" font-normal text-[17px] ff_Helvetica leading-[27.3px] text-[#C4C4C4] mt-3 lg:mt-[29px]"> Sign up to the newsletter and learn about new resources, new commits, new proposals, and more.</p>
                                 <div className='mt-[79px] bg-black  justify-between items-center py-[9px] flex rounded-[800px]  pr-[10px] w-full max-w-[400px]'>
                                     <input type="text" className=' bg-black rounded-[800px] w-[70%] pl-[10px] text-[#848895]  outline-none placeholder:text-[#84889] ' placeholder='Email' />
-                                    <button className=' rounded-[800px] uppercase ff_roboto px-[21px] py-[13px]  bg-[#14F195] font-normal text-[15px] leading-[20px]'>Sign up</button>
+                                    <button className=' rounded-[800px] uppercase  hover:bg-white hover:text-black duration-300 ease-in-out ff_roboto px-[21px] py-[13px]  bg-[#14F195] font-normal text-[15px] leading-[20px]'>Sign up</button>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +99,8 @@ const SolanaDos = () => {
                                     community developers.
                                 </p>
                                 <div className=" flex gap-[22px] max-sm:flex-col items-center mt-[64px]">
-                                    <a href="https://www.youtube.com/" target='_blanck' className=' font-normal text-[15px] leading-[20px] flex items-center gap-[8px] border-white rounded-[24px] border-[1px] py-[12px] ff_roboto px-[48px] text-white'>YouTube <Youtube1 /></a>
-                                    <a href="https://podcast.adobe.com/" className=' font-normal text-[15px] leading-[20px] flex items-center gap-[8px] border-white rounded-[24px] border-[1px] py-[12px] ff_roboto px-[48px] text-white'>Podcast <Poadcast /></a>
+                                    <a href="https://www.youtube.com/" target='_blanck' className=' font-normal text-[15px] leading-[20px] flex items-center  hover:bg-white hover:text-black duration-300 ease-in-out gap-[8px] border-white rounded-[24px] border-[1px] py-[12px] ff_roboto px-[48px] text-white'>YouTube <Youtube1 /></a>
+                                    <a href="https://podcast.adobe.com/" className=' font-normal text-[15px] leading-[20px] flex items-center  hover:bg-white hover:text-black duration-300 ease-in-out gap-[8px] border-white rounded-[24px] border-[1px] py-[12px] ff_roboto px-[48px] text-white'>Podcast <Poadcast /></a>
                                 </div>
                             </div>
                         </div>

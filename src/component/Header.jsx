@@ -14,7 +14,7 @@ const Header = () => {
     }
     return (
         <div className=" bg-black">
-            <div className=" w-full bg_gradient">
+            <div className=" w-full bg_gradient" id="Grants">
                 <p className=" text-center uppercase ff_roboto font-normal text-[17px] leading-[27px] pt-[5px] pb-1">Breakpoint 2023 - New City. New Vibes - Get Early Access -</p>
             </div>
 
