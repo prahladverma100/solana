@@ -1,38 +1,71 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none !important;
+  text-decoration: none !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+  font-family: "Helvetica";
+  src: url(../src/assets/font/Helvetica.ttf);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.overflow_hidden {
+  overflow: hidden !important;
+}
+
+.ff_Helvetica {
+  font-family: 'Helvetica';
+}
+
+.ff_roboto {
+  font-family: 'Roboto';
+}
+
+
+
+.bg_img {
+  background-image: url(./assets/image/png/image.png);
+
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.slick-slid {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: center !important;
 }
 
-.App-link {
-  color: #61dafb;
+.card1 {
+  display: none !important;
+   transition: all 300ms ease-in-out !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.card:hover .card1 {
+  display: block !important;
+ transition: all 300ms ease-in-out !important;
+
+}
+
+div.slick-slide {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.bg_gradient{
+  background: linear-gradient(260.33deg, #0047FF -13.37%, #00BCD4 109.53%);
+}
+@media (max-width:1024px) {
+  .overflow_hidden {
+    overflow: hidden !important;
   }
-  to {
-    transform: rotate(360deg);
-  }
+
 }
