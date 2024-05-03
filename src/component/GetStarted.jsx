@@ -53,25 +53,25 @@ const GetStarted = () => {
                 </div>
                 <div className=' hidden lg:block'>
                     <div className=' flex-row flex gap-6 pt-6'>
-                        <div className=' w-4/12 flex justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out mx-auto' data-aos="zoom-in" src={Buildspace} alt="Buildspace" />
+                        <div className=' w-4/12 flex justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300  mx-auto' src={Buildspace} alt="Buildspace" />
                         </div>
-                        <div className=' w-4/12 flex  justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out' data-aos="zoom-in" src={SolanaBytes} alt="SolanaBytes" />
+                        <div className=' w-4/12 flex  justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300 ' src={SolanaBytes} alt="SolanaBytes" />
                         </div>
-                        <div className=' w-4/12 flex justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out' data-aos="zoom-in" src={ScaffoldSeries} alt="ScaffoldSeries" />
+                        <div className=' w-4/12 flex justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300 ' src={ScaffoldSeries} alt="ScaffoldSeries" />
                         </div>
                     </div>
                     <div className=' flex-row flex gap-6 pt-6'>
-                        <div className=' w-4/12 flex justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out mx-auto' data-aos="zoom-in" src={Freecodecamp} alt="Freecodecamp" />
+                        <div className=' w-4/12 flex justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300  mx-auto' src={Freecodecamp} alt="Freecodecamp" />
                         </div>
-                        <div className=' w-4/12 flex justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out' data-aos="zoom-in" src={SolanaDeveloment} alt="SolanaDeveloment" />
+                        <div className=' w-4/12 flex justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300 ' src={SolanaDeveloment} alt="SolanaDeveloment" />
                         </div>
-                        <div className=' w-4/12 flex justify-center'>
-                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] duration-300 ease-in-out' data-aos="zoom-in" src={SolanaBootcamp} alt="SolanaBootcamp" />
+                        <div className=' w-4/12 flex justify-center' data-aos="zoom-in">
+                            <img className=' w-full cursor-pointer max-w-[346px] hover:translate-y-[-6px] ease-in-out duration-300 ' src={SolanaBootcamp} alt="SolanaBootcamp" />
                         </div>
                     </div>
                 </div>

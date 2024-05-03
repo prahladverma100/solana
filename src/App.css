@@ -45,12 +45,12 @@
 }
 
 .card1 {
-  display: none !important;
+   opacity: 0 !important;
    transition: all 300ms ease-in-out !important;
 }
 
 .card:hover .card1 {
-  display: block !important;
+  opacity: 1 !important;
  transition: all 300ms ease-in-out !important;
 
 }

@@ -48,8 +48,8 @@ const DigDeeper = () => {
                 <p className=' text-[#C4C4C4] ff_Helvetica font-normal text-xl pb-3 lg:pb-8 text-center lg:text-start' data-aos="fade-right">Learn from resources across the greater Solana ecosystem.</p>
                 <div className=' hidden lg:block'>
                     <div className=' flex-row gap-6 flex'>
-                        <div className=' bg-[#19161C]   overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12  relative card py-8' data-aos="zoom-in">
-                            <div className=' bg-[#A962FF]  bottom-[-10%] blur-[33px] rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                        <div className=' bg-[#19161C] overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12  relative card py-8' data-aos="zoom-in">
+                            <div className=' bg-[#A962FF] bottom-[-10%] blur-[33px] rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -57,7 +57,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -66,7 +66,7 @@ const DigDeeper = () => {
 
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] cursor-pointer w-4/12 card overflow-hidden py-8 relative' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF] bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -77,7 +77,7 @@ const DigDeeper = () => {
                     </div>
                     <div className=' flex-row gap-6 pt-6 flex'>
                         <div className=' bg-[#19161C]  duration-300 ease-in-out overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12 hover:duration-300 hover:ease-in-out  relative card py-8' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF] bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Solana Playground</p>
@@ -85,7 +85,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className=' bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>create-solana-dapp</p>
@@ -94,7 +94,7 @@ const DigDeeper = () => {
 
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] cursor-pointer w-4/12 card overflow-hidden py-8 relative' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className=' bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Anchor Docs</p>
@@ -105,7 +105,7 @@ const DigDeeper = () => {
                     </div>
                     <div className=' flex-row gap-6 pt-6 flex'>
                         <div className=' bg-[#19161C]  duration-300 ease-in-out overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12 hover:duration-300 hover:ease-in-out  relative card py-8' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px] max-w-[200px]'>Solana Program Library</p>
@@ -113,7 +113,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8' data-aos="zoom-in">
-                            <div className='   bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF] bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white max-w-[159px] pt-[9px]'>Program Examples</p>
@@ -128,7 +128,7 @@ const DigDeeper = () => {
                 <div className=' lg:hidden block pt-4'>
                     <Slider {...settings}>
                         <div className=' bg-[#19161C]  duration-300 ease-in-out overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12 hover:duration-300 hover:ease-in-out  relative card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className=' bg-[#A962FF] bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -136,7 +136,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -144,7 +144,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] cursor-pointer w-4/12 card overflow-hidden py-8 relative'>
-                            <div className='  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Core Documentation</p>
@@ -152,7 +152,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'> LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C]  duration-300 ease-in-out overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12 hover:duration-300 hover:ease-in-out  relative card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Solana Playground</p>
@@ -160,7 +160,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>create-solana-dapp</p>
@@ -168,7 +168,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] cursor-pointer w-4/12 card overflow-hidden py-8 relative'>
-                            <div className='  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px]'>Anchor Docs</p>
@@ -176,7 +176,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'> LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C]  duration-300 ease-in-out overflow-hidden cursor-pointer px-8 h-[282px] rounded-[12px] w-4/12 hover:duration-300 hover:ease-in-out  relative card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px] duration-200 ease-in-out rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'> TOOL / LIBRARY </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white pt-[9px] max-w-[200px]'>Solana Program Library</p>
@@ -184,7 +184,7 @@ const DigDeeper = () => {
                             <p className='ff_Helvetica font-normal text-[11px] leading-[27.3px] text-white flex items-center gap-[7px]'>LEARN MORE <Arrow_icon /></p>
                         </div>
                         <div className=' bg-[#19161C] px-8 h-[282px] rounded-[12px] w-4/12 relative overflow-hidden cursor-pointer card py-8'>
-                            <div className='  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
+                            <div className='bg-[#A962FF]  bottom-[-10%] blur-[33px]  rounded-[30px] absolute card1  h-[59px] w-[259px]'>
                             </div>
                             <p className='text-[#9945FF] ff_Helvetica text-[12px] font-normal leading-5'>TOOL / LIBRARY   </p>
                             <p className='ff_Helvetica leading-5 font-normal  text-[19px] text-white max-w-[159px] pt-[9px]'>Program Examples</p>
